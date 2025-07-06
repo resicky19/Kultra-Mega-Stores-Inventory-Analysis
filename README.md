@@ -27,3 +27,4 @@ EDA involved the exploring of the Data to answer some question about the data
 9. Which consumer customer was the most profitable?
 10. Which customers returned items, and what segment do they belong to?
 11. Based on Order Priority, did KMS spend appropriately on shipping (Delivery Truck vs Express Air)?
+
