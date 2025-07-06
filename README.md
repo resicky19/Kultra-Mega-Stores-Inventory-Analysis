@@ -28,10 +28,8 @@ EDA involved the exploring of the Data to answer some question about the data
 10. Which customers returned items, and what segment do they belong to?
 11. Based on Order Priority, did KMS spend appropriately on shipping (Delivery Truck vs Express Air)?
 
-------
 
 ##  Executive Summary
-
 This report presents an analytical review of Kultra Mega Stores' historical order data (2009–2012) to guide regional strategy, revenue optimization, and logistics efficiency. It identifies sales trends, regional performance, customer segmentation, and cost leaks — particularly in shipping methods. Based on these insights, specific recommendations are made to improve profitability, reduce operational waste, and target high-potential customer segments.
 
 
